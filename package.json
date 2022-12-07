@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Lymengchun/vpstart_json_server/issues"
   },
-  "homepage": "https://github.com/Lymengchun/vpstart_json_server#readme"
+  "homepage": "https://github.com/Lymengchun/vpstart_json_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
 }
