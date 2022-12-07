@@ -1,0 +1,22 @@
+{
+  "name": "vpstart_json_server",
+  "version": "1.0.0",
+  "description": "fake json server for vpstart app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lymengchun/vpstart_json_server.git"
+  },
+  "keywords": [
+    "vpstart"
+  ],
+  "author": "vpstart.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lymengchun/vpstart_json_server/issues"
+  },
+  "homepage": "https://github.com/Lymengchun/vpstart_json_server#readme"
+}
