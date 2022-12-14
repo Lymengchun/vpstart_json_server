@@ -139,7 +139,7 @@
                     },
                     {
                         "image_link": "https://firebasestorage.googleapis.com/v0/b/vp-start-947fb.appspot.com/o/Asset%201xxxhdpi.png?alt=media&token=3a09cf2d-3a6e-4e9e-932d-6d5b77aca87a",
-                        "product_name":"EC-004"
+                        "app_name":"EC-004"
                     },
                     {
                         "image_link": "https://firebasestorage.googleapis.com/v0/b/vp-start-947fb.appspot.com/o/Asset%201xxxhdpi.png?alt=media&token=3a09cf2d-3a6e-4e9e-932d-6d5b77aca87a",
@@ -151,7 +151,7 @@
                     },
                     {
                         "image_link": "https://firebasestorage.googleapis.com/v0/b/vp-start-947fb.appspot.com/o/Asset%201xxxhdpi.png?alt=media&token=3a09cf2d-3a6e-4e9e-932d-6d5b77aca87a",
-                        "product_name":"EC-007"
+                        "app_name":"EC-007"
                     }
                 ]
             }
