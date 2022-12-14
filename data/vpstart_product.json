@@ -1,6 +1,6 @@
 [
     {
-        "list_vpstart_product": [
+        "list_vpstart_product": 
             {
                 "list_smart_grid": [
                     {
@@ -87,7 +87,7 @@
                     }
                 ]
             }
-        ],
+        ,
         "id": 4103004243257211
     }
 ]
