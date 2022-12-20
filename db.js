@@ -4,7 +4,7 @@ const news_events = require("./data/news_events");
 const vpstart_app = require("./data/vpstart_app");
 const vpstart_product = require("./data/vpstart_product");
 const appointment_request = require("./data/appointment_request");
-const image_scr = require("./data/ic_vpstart.png");
+const image_scr = require("./data/ic_vpstart");
 
 module.exports = {
     user,
