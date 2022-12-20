@@ -4,9 +4,17 @@ const server = jsonServer.create();
 const router = jsonServer.router(data);
 const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3000;
+const express = require('express');
+const app = express();
 
-server.use(middlewares);
-server.use(router);
+app.use(express.static('public'));
+app.use('/images',express.static('images'));
+
+app.use(middlewares);
+app.use(router);
  
 
-server.listen(port);
+// Server setup
+app.listen(port, () => {
+    console.log(`Running server on PORT ${port}...`);
+  })

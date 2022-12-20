@@ -4,8 +4,6 @@ const news_events = require("./data/news_events");
 const vpstart_app = require("./data/vpstart_app");
 const vpstart_product = require("./data/vpstart_product");
 const appointment_request = require("./data/appointment_request");
-const image_scr = require("./data/ic_vpstart");
-
 module.exports = {
     user,
     notification,
@@ -13,5 +11,6 @@ module.exports = {
     vpstart_app,
     vpstart_product,
     appointment_request,
-    image_scr
+  
+
 }
